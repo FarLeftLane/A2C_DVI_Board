@@ -1,6 +1,6 @@
 # A2C_DVI_Board
 
-This is an adapter to let an Apple IIc use an A2DVI card. 4/29/25
+This is an adapter to let an Apple IIc use an A2DVI card for hdmi video. 4/29/25
 
 **USE AT YOUR OWN RISK.   MIT LICENSE**
 
@@ -86,6 +86,18 @@ I have heard from a couple people that they are designing purpose-built cards ba
 
 
 **Pictures**
+
+Bare boards:
+![image](https://github.com/user-attachments/assets/5490d1bf-273f-4cc6-bada-e04a91e32e1d)
+
+Assembled board:
+![image](https://github.com/user-attachments/assets/d2fc6321-fd81-46e8-b11e-aa2c74926499)
+
+Choplifter:
+![image](https://github.com/user-attachments/assets/97cfaa84-4630-4930-a1c1-75e348ac7cfe)
+
+Remember card components face away from keyboard:
+![image](https://github.com/user-attachments/assets/c29b7e93-f88f-4bc5-adc9-e4f87c2b2daa)
 
 Config screen:
 ![DEFAULT](https://github.com/user-attachments/assets/00f029e0-050e-4da7-86ac-1dbc8562bdf5)
