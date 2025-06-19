@@ -3367,7 +3367,7 @@
 			(net 2 "GND")
 			(pinfunction "PAD")
 			(pintype "passive")
-			(uuid "5d24c178-f5e0-48e1-9430-d127ab983f71")
+			(uuid "9da87817-12b3-4c68-9251-806d57751f34")
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 270)
